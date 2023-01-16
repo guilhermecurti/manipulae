@@ -34,7 +34,7 @@ Dei um nome bacana e uma logo também para o projeto :D
 
 <br>
 
-## Frot-End
+## Front-End
 
 -   ⚛ React - Single page application
 -   ⚛ React Router Dom - Controle de rotas
@@ -56,7 +56,7 @@ A aplicação é dividida em duas partes, <b>manipulae_music_proxy_api</b> que f
 -   Yarn
     <br>
 
-## 💻 Rodando o Back-End (manipulae_music_proxy_api)
+## Rodando o Back-End (manipulae_music_proxy_api)
 
 Clone o repositório
 
@@ -83,7 +83,7 @@ yarn start
 ```
 <br>
 
-## 🖥 Rodando o Front-End (manipulae_music_webapp)
+## Rodando o Front-End (manipulae_music_webapp)
 
 Caso já tenha clonado o repositório basta pular a primeira etapa
 
